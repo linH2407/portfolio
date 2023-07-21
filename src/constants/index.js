@@ -1,6 +1,5 @@
 import {
   mobile,
-  backend,
   creator,
   web,
   javascript,
@@ -10,10 +9,8 @@ import {
   reactjs,
   redux,
   tailwind,
-  nodejs,
   mongodb,
   git,
-  figma,
   docker,
   meta,
   starbucks,
@@ -46,13 +43,13 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "ReactJs Developer",
     icon: mobile,
   },
-  {
-    title: "Backend Developer",
-    icon: backend,
-  },
+  // {
+  //   title: "Git",
+  //   icon: git,
+  // },
   {
     title: "Content Creator",
     icon: creator,
@@ -89,10 +86,6 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
     name: "MongoDB",
     icon: mongodb,
   },
@@ -103,10 +96,6 @@ const technologies = [
   {
     name: "git",
     icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
   },
   {
     name: "docker",

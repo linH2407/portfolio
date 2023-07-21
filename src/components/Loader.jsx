@@ -1,9 +1,8 @@
-import React from 'react'
+/* eslint-disable no-unused-vars */
+import React from "react";
 
-const Loader = () => {
-  return (
-    <div>Loader</div>
-  )
-}
+const CanvasLoader = () => {
+  return <div>CanvasLoader </div>;
+};
 
-export default Loader
+export default CanvasLoader;
