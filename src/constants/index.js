@@ -1,6 +1,6 @@
 import {
   mobile,
-  creator,
+  // creator,
   web,
   javascript,
   typescript,
@@ -50,10 +50,10 @@ const services = [
   //   title: "Git",
   //   icon: git,
   // },
-  {
-    title: "Content Creator",
-    icon: creator,
-  },
+  // {
+  //   title: "Content Creator",
+  //   icon: creator,
+  // },
 ];
 
 const technologies = [
